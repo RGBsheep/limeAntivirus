@@ -1,0 +1,9 @@
+LimeAntivirus/
+├── main.py                 # 主程序
+├── run.vbs         # 推荐启动方式（无窗口）
+├── run_1.bat                # 备用启动方式
+├── README.txt              # 详细说明
+├── 文件1.1.txt              #文件说明1.1
+├── yl.bat              #安装依赖
+└── README_简单版.txt       # 快速入门
+（不用管icon.ico）
